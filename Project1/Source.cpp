@@ -4,7 +4,7 @@
 *
 *	Implement STL-style count_if() : where x = count(..), x is the number of occurrences of v in [b:e).
 *	Lesson: Visual studio has xutility included by default which was called instead of my version of count
-* 
+*
 *	Properties>C/C++>Advanced>Show includes is accessible from Project1\Project1\x64\Debug\Project1.log
 *	xutlities is included in iostream, which has a version of count in the global namespace.
 */
